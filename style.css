@@ -1,0 +1,35 @@
+*{
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
+  margin: 0;
+}
+
+.header{
+    background-color: aqua;
+    margin: 0vh;
+    height: 3vh;
+}
+.h1{
+    font-size: 24px;
+    text-align: center;
+    
+    
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.retorno{
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(196, 196, 196);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
